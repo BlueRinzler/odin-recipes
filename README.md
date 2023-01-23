@@ -1,0 +1,1 @@
+Creating a simple website full of fake recipes. Will have different pages for different reciepes. Using relative links.
